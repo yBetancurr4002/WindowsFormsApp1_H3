@@ -1,0 +1,59 @@
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaClientes.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAdminSeguridad.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategoriaProductos.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEdicionClientes.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEditarProductos.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEmpleados.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmFacturas.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmInformes.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaCategorias.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaEmpleados.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaFacturas.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaProductos.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaRoles.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRolEmpleados.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAyuda.resources
+D:\Mis documentos\IUPB\N5\Programacion_3\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcercaDe.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcercaDe.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAdminSeguridad.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAyuda.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategoriaProductos.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEdicionClientes.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEditarProductos.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEmpleados.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmFacturas.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmInformes.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaCategorias.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaClientes.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaEmpleados.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaFacturas.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaProductos.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListaRoles.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRolEmpleados.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Escritorio\Pantalla_Sistema_Facturacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
